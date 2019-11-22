@@ -92,6 +92,7 @@
 127.0.0.1 de.ioam.de
 127.0.0.1 dev.appboy.com
 127.0.0.1 device-api.urbanairship.com
+127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 diagnostics.meethue.com
 127.0.0.1 display.apester.com
 127.0.0.1 dmp.adform.net
@@ -142,6 +143,7 @@
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 mads-eu.amazon.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
@@ -210,6 +212,7 @@
 127.0.0.1 t.appsflyer.com
 127.0.0.1 t.kck.st
 127.0.0.1 t23.intelliad.de
+127.0.0.1 tags.tiqcdn.com
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tpc.googlesyndication.com
@@ -221,16 +224,9 @@
 127.0.0.1 vendorlist.consensu.org
 127.0.0.1 wd.adcolony.com
 127.0.0.1 widgets.outbrain.com
-127.0.0.1 www.bildschirmarbeiter.com
-127.0.0.1 www.drtuber.com
-127.0.0.1 www.eroprofile.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
-127.0.0.1 www.pornrabbit.com
-127.0.0.1 www.realgfporn.com
-127.0.0.1 www.redtube.com
-127.0.0.1 www.youporn.com
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 xpl.theadex.com
