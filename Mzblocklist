@@ -1,5 +1,5 @@
-mz.block.list
-secure-eu.imrworldwide.com
+127.0.0.1 mz.block.list
+127.0.0.1 secure-eu.imrworldwide.com
 logx.optimizely.com
 diagnostics.meethue.com
 ads.mopub.com
